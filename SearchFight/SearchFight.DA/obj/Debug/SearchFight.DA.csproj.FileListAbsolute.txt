@@ -1,0 +1,4 @@
+D:\PROYECTOS\Cignium\SearchFight\SearchFight.DA\bin\Debug\SearchFight.DA.dll
+D:\PROYECTOS\Cignium\SearchFight\SearchFight.DA\bin\Debug\SearchFight.DA.pdb
+D:\PROYECTOS\Cignium\SearchFight\SearchFight.DA\obj\Debug\SearchFight.DA.dll
+D:\PROYECTOS\Cignium\SearchFight\SearchFight.DA\obj\Debug\SearchFight.DA.pdb

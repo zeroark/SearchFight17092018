@@ -1,0 +1,10 @@
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\bin\Debug\SearchFight.exe.config
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\bin\Debug\SearchFight.exe
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\bin\Debug\SearchFight.pdb
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\bin\Debug\SearchFight.BL.dll
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\bin\Debug\SearchFight.DA.dll
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\bin\Debug\SearchFight.BL.pdb
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\bin\Debug\SearchFight.DA.pdb
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\obj\Debug\SearchFight.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\obj\Debug\SearchFight.exe
+D:\PROYECTOS\Cignium\SearchFight\SearchFight\obj\Debug\SearchFight.pdb
